@@ -45,7 +45,7 @@
   </servlet>
   <servlet>
     <servlet-name>Hero</servlet-name>
-    <servlet-class>com.lol.control.HeroServlet</servlet-class>
+    <servlet-class>com.sccc.lol.control.HeroServlet</servlet-class>
   </servlet>
   <servlet-mapping>
     <servlet-name>Hero</servlet-name>
@@ -53,7 +53,7 @@
   </servlet-mapping>
   <servlet>
     <servlet-name>AllHero</servlet-name>
-    <servlet-class>com.lol.control.HeroesServlet</servlet-class>
+    <servlet-class>com.sccc.ch11.HeroesServlet</servlet-class>
   </servlet>
   <servlet-mapping>
     <servlet-name>Guess</servlet-name>
